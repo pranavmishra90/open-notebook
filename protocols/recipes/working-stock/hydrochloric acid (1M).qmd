@@ -1,7 +1,6 @@
 ---
 title: "Hydrochloric Acid (1M)"
-date: last-modified
-date-format: full
+date: 2024-03-06
 author:
   - name:
       given: Pranav Kumar
@@ -13,13 +12,6 @@ author:
     url: https://drpranavmishra.com
     email: pranav_k_mishra@rush.edu
     orcid: 0000-0001-5219-6269
-format:
-  html:
-    code-fold: true
-  gfm:
-    html-math-method: webtex
-citation:
-  type: article
 ---
 
 

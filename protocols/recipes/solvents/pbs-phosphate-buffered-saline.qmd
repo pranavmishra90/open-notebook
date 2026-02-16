@@ -12,13 +12,6 @@ author:
     url: https://drpranavmishra.com
     email: pranav_k_mishra@rush.edu
     orcid: 0000-0001-5219-6269
-format:
-  html:
-    code-fold: true
-  gfm:
-    html-math-method: webtex
-citation:
-  type: article
 ---
 ## Overview
 Similar pH, electrolytes, and osmolarity to the human body.
