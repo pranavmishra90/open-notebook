@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/protocols/molecular-biology/index.html",
-    "items": [
-      "/protocols/molecular-biology/western-blot.html"
-    ]
-  },
-  {
     "listing": "/protocols/recipes/index.html",
     "items": [
       "/protocols/recipes/buffers/tris-glycine-transfer-buffer.html",
@@ -13,7 +7,20 @@
       "/protocols/recipes/buffers/tris-buffered-saline-Tween-20.html",
       "/protocols/recipes/buffers/tris-buffered-saline-TBS.html",
       "/protocols/recipes/solvents/pbs-phosphate-buffered-saline.html",
-      "/protocols/recipes/solvents/formalin (10 percent).html"
+      "/protocols/recipes/working-stock/hydrochloric acid (1M).html",
+      "/protocols/recipes/solvents/PFA-(4pct)-formalin-(10pct).html"
+    ]
+  },
+  {
+    "listing": "/lab-materials/safe-disposal/index.html",
+    "items": [
+      "/lab-materials/safe-disposal/methanol.html"
+    ]
+  },
+  {
+    "listing": "/protocols/molecular-biology/index.html",
+    "items": [
+      "/protocols/molecular-biology/PCR/RNA-isolation.html"
     ]
   }
 ]

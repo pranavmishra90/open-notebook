@@ -1,1 +1,1 @@
-Sitemap: https://github.com/pranavmishra90/research-reference/sitemap.xml
+Sitemap: https://pranavmishra90.github.io/open-notebook/sitemap.xml
