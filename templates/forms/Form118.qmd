@@ -16,10 +16,6 @@ author:
     email: pranav_k_mishra@rush.edu
     orcid: 0000-0001-5219-6269
     role: "Post Doctoral Research Fellow"
-format:
-  html: default
-  pdf: 
-    documentclass: scrartcl #scrreprt
 ---
 
 ::: {.content-hidden when-profile="production"}
