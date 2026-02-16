@@ -1,4 +1,38 @@
+# This file tells datalad (git) what not to "track" or add to the dataset
+
+# Secrets stored as environments or secrets files
+*.env
+*.secrets
+
+# Code
+**/.jupyter_cache/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/papermill_tmp
+
+# Local environment
+.venv
+
+# Temporary files
+*.tmp
+**/*_tmp*
+
+# Quarto
 /.quarto/
+/_site/
+/_book/
 #/_freeze/
+*.quarto_ipynb
+**/*_files/
+**/*.quarto_ipynb
 **/.jupyter_cache
-!/protocols/**/*.html
+*.tex
+*.log
+**/.log
+
+# Worktree
+**/worktree
+
+# Always include in git
+!**/.gitkeep
+!**/readme.md

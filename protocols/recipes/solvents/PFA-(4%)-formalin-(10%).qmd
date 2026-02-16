@@ -12,13 +12,6 @@ author:
     url: https://drpranavmishra.com
     email: pranav_k_mishra@rush.edu
     orcid: 0000-0001-5219-6269
-format:
-  html:
-    code-fold: true
-  gfm:
-    html-math-method: webtex
-citation:
-  type: article
 ---
 ## Overview
 
@@ -54,7 +47,7 @@ Adapted from [@rd_systems_protocol_nodate]
 - $-20 ^\circ C$: several months
 
 ## References
-1. R&D Systems. Protocol for Making a 4% Formaldehyde Solution in PBS. https://www.rndsystems.com/resources/protocols/protocol-making-4-formaldehyde-solution-pbs
+<!-- 1. R&D Systems. Protocol for Making a 4% Formaldehyde Solution in PBS. https://www.rndsystems.com/resources/protocols/protocol-making-4-formaldehyde-solution-pbs -->
 
 ::: {#refs}
 :::

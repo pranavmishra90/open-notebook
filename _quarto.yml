@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "!**/spatial-transcriptomics/*"
+    - "!**/nextgen-analysis/*"
   preview:
     port: 3333
     browser: true
@@ -21,18 +22,18 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: https://github.com/pranavmishra90/research-reference
+      - href: https://github.com/pranavmishra90/open-notebook
         text: GitHub
     search: true
   open-graph: true
   sidebar:
     style: "docked"
     contents: auto
-  page-footer: "Created by Pranav Kumar Mishra || License CC-BY-SA" 
-  reader-mode: false
-  repo-url: https://github.com/pranavmishra90/research-reference
+  page-footer: "Copyright 2023-2026: Pranav Kumar Mishra || License CC-BY-SA" 
+  reader-mode: true
+  repo-url: https://github.com/pranavmishra90/open-notebook
   repo-actions: [issue, edit]
-  site-url: ref.drpranavmishra.com
+  site-url: https://pranavmishra90.github.io/open-notebook/
 
 
 
@@ -48,9 +49,9 @@ format:
     code-fold: true
     code-line-numbers: true
     code-overflow: wrap
-    # grid:
-    #   sidebar-width: 300px
-    #   body-width: 900px
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
     default-image-extension: svg
     embed-resources: true
 
@@ -60,10 +61,12 @@ execute:
   cache: true
   error: true
 
+pdf-engine: lualatex
+
 bibliography: ./references.bib
 csl: ./ama.csl
 
-citation: true
+citation: false
 google-scholar: true
 
 

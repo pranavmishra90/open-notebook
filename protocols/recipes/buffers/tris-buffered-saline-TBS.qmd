@@ -13,8 +13,6 @@ author:
     url: https://drpranavmishra.com
     email: pranav_k_mishra@rush.edu
     orcid: 0000-0001-5219-6269
-citation: true
-google-scholar: true
 ---
 
 ## Overview
