@@ -5,10 +5,12 @@ Most of my lab protocols documented in my LabArchives Notebooks and also kept on
 ### Feedback
 If you have any questions, comments, or critiques, please do not hesitate to open an [issue on GitHub](https://github.com/pranavmishra90/research-reference/issues).
 
-
 ### Repository Maintainer
 
-<strong>Pranav Kumar Mishra, MBBS</strong><br> Post-Doctoral Research Fellow<br> Departments of Surgery and Orthopedic Surgery<br> Rush University Medical Center
+**Pranav Kumar Mishra, MD**<br>
+Post-Doctoral Research Fellow<br>
+Departments of Surgery and Orthopedic Surgery<br> 
+Rush University Medical Center
 
 <a href="mailto:pranav_k_mishra@rush.edu">Email me</a> <br>
 
@@ -19,11 +21,13 @@ If you have any questions, comments, or critiques, please do not hesitate to ope
 ## Repository Info
 The [GitHub repository](https://github.com/pranavmishra90/research-reference) is the primary public-facing repository, while the [GIN repository](https://gin.g-node.org/pranavmishra90/research-reference) hosts annex-files as a common data source. If you would like to view the files without having to clone/download the Datalad data set, you please visit the [GIN repository](https://gin.g-node.org/pranavmishra90/research-reference).
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2FRush/BFGI/datalad.json&amp;color=3e4c75" alt="datalad"/> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2FRush/BFGI/python.json&amp;color=3e4c75" alt="python"/> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Fone-sided-badge/jupyter.json&amp;color=3e4c75" alt="jupyter"/> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Fone-sided-badge/anaconda.json&amp;color=3e4c75" alt="anaconda"/> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/pre-commit-enabled.json&amp;color=3e4c75" alt="pre-commit-enabled"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2FRush/BFGI/datalad.json&amp;color=3e4c75" alt="datalad"/>
+<img alt="python-3.13" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/package_version/python-3.13.json">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Fone-sided-badge/jupyter.json&amp;color=3e4c75" alt="jupyter"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/pre-commit-enabled.json&amp;color=3e4c75" alt="pre-commit-enabled"/>
+<img alt="contributor-convent" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/contributor-convent.json&color=3e4c75">
 
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
+---
 
 ## About this Datalad dataset
 
@@ -67,7 +71,7 @@ Afterwards, you can browse the retrieved metadata to find out about subdataset c
 
 #### Stay up-to-date
 
-DataLad datasets can be updated. The command `datalad update` will *fetch* updates and store them on a different branch (by default `remotes/origin/master`). Running
+DataLad datasets can be updated. The command `datalad update` will *fetch* updates and store them on a different branch (by default `remotes/origin/main`). Running
 
 ```         
 datalad update --merge
