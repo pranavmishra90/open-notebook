@@ -51,7 +51,7 @@ Afterwards, you can browse the retrieved metadata to find out about subdataset c
 
 #### Stay up-to-date
 
-DataLad datasets can be updated. The command `datalad update` will *fetch* updates and store them on a different branch (by default `remotes/origin/master`). Running
+DataLad datasets can be updated. The command `datalad update` will *fetch* updates and store them on a different branch (by default `remotes/origin/main`). Running
 
 ```         
 datalad update --merge
