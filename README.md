@@ -21,11 +21,7 @@ Rush University Medical Center
 ## Repository Info
 The [GitHub repository](https://github.com/pranavmishra90/research-reference) is the primary public-facing repository, while the [GIN repository](https://gin.g-node.org/pranavmishra90/research-reference) hosts annex-files as a common data source. If you would like to view the files without having to clone/download the Datalad data set, you please visit the [GIN repository](https://gin.g-node.org/pranavmishra90/research-reference).
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2FRush/BFGI/datalad.json&amp;color=3e4c75" alt="datalad"/>
-<img alt="python-3.13" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/package_version/python-3.13.json">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Fone-sided-badge/jupyter.json&amp;color=3e4c75" alt="jupyter"/>
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/pre-commit-enabled.json&amp;color=3e4c75" alt="pre-commit-enabled"/>
-<img alt="contributor-convent" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/contributor-convent.json&color=3e4c75">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2FRush/BFGI/datalad.json&amp;color=3e4c75" alt="datalad"/> <img alt="python-3.13" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/package_version/python-3.13.json"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Fone-sided-badge/jupyter.json&amp;color=3e4c75" alt="jupyter"/> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/pre-commit-enabled.json&amp;color=3e4c75" alt="pre-commit-enabled"/> <img alt="contributor-convent" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavmishra90%2Fbadges%2Fmain%2Ftwo-side-status-badge/contributor-convent.json&color=3e4c75">
 
 ---
 
