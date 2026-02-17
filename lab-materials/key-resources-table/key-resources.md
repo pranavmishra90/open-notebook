@@ -1,6 +1,6 @@
 # Key Resources Tables
 Pranav Kumar Mishra
-2026-02-16
+2026-02-17
 
 Adapted from the [Cell Press STAR
 Methods](https://www.cell.com/star-authors-guide) to help produce
@@ -40,7 +40,7 @@ post](https://www.drpranavmishra.com/research/2023/star-methods-key-resources/).
 
     <>:12: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
     <>:12: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
-    /tmp/ipykernel_2867/516824930.py:12: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
+    /tmp/ipykernel_2782/516824930.py:12: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
       antibodies = antibodies.astype(str).replace('\.0', '', regex=True)
 
 | REAGENT or RESOURCE | SOURCE | IDENTIFIER | Size (kDA) | Source | Target | RRID |
@@ -146,7 +146,7 @@ our group.
 
     <>:7: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
     <>:7: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
-    /tmp/ipykernel_2867/294112252.py:7: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
+    /tmp/ipykernel_2782/294112252.py:7: SyntaxWarning: "\." is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\."? A raw string is also an option.
       other = other.astype(str).replace('\.0', '', regex=True)
 
 | REAGENT or RESOURCE | SOURCE | IDENTIFIER | Experiment | Category |
